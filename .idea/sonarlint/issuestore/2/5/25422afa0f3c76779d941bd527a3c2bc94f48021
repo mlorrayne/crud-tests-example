@@ -1,22 +1,0 @@
-
-Š
-java:S1319
-"hThe type of "userList" should be an interface such as "List" rather than the implementation "ArrayList".(¯Ÿ›Äûÿÿÿÿ8ıû×Éş0
-v
-java:S1104
-"TMake userList a static final constant or non-public and provide accessors if needed.(¯Ÿ›Äûÿÿÿÿ8şû×Éş0
-P
-java:S1444
-".Make this "public static userList" field final(¯Ÿ›Äûÿÿÿÿ8şû×Éş0
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û½´şÿÿÿÿ8ÿû×Éş0
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ú€¤„ùÿÿÿÿ8ü×Éş0
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÁêÔ¤8ü×Éş0
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ï³Ìê8ü×Éş0
-?
-java:S2386
-"Make this member "protected".(¯Ÿ›Äûÿÿÿÿ8ƒü×Éş0
-H
-java:S1168"+Return an empty collection instead of null.(¥¹ï8‡ü×Éş0
